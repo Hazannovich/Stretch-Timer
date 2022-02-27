@@ -1,0 +1,3 @@
+C:/Users/Hazannovich/Documents/Stretch Timer/cmake-build-debug/CMakeFiles/Stretch_Timer.dir
+C:/Users/Hazannovich/Documents/Stretch Timer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hazannovich/Documents/Stretch Timer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
