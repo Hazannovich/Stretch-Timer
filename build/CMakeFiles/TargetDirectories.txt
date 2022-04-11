@@ -1,0 +1,3 @@
+/home/BarmackOs/Dev/Stretch-Timer/build/CMakeFiles/Stretch_Timer.dir
+/home/BarmackOs/Dev/Stretch-Timer/build/CMakeFiles/edit_cache.dir
+/home/BarmackOs/Dev/Stretch-Timer/build/CMakeFiles/rebuild_cache.dir
