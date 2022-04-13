@@ -9,10 +9,7 @@ int kbhit(void)
         ungetch(ch);
         return 1;
     }
-    else
-    {
-        return 0;
-    }
+    return 0;
 }
 int main()
 {
@@ -34,7 +31,6 @@ int main()
     initializeCurses();
     start_color(); /* Start color 			*/
     init_pair(2, COLOR_MAGENTA, COLOR_BLACK);
-
     intro();
     load_file(&file_handler);
     work_time_input = set_work_time();
